@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/user/CourseWorks/src/main.cpp
+iostream
+-
+stdio.h
+-
+vector
+-
+numeric
+-
+fstream
+-
+iterator
+-
+funcs.h
+/mnt/c/Users/user/CourseWorks/src/funcs.h
+
+include/funcs.h
+stdio.h
+-
+stdlib.h
+-
+vector
+-
+sstream
+-
+iomanip
+-
+

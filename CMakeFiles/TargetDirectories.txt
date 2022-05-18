@@ -1,0 +1,3 @@
+/mnt/c/Users/user/CourseWorks/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/user/CourseWorks/CMakeFiles/edit_cache.dir
+/mnt/c/Users/user/CourseWorks/CMakeFiles/coursework.dir

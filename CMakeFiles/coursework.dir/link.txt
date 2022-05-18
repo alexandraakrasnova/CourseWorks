@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall -Wextra -Werror   CMakeFiles/coursework.dir/src/main.cpp.o CMakeFiles/coursework.dir/src/funcs.cpp.o  -o coursework 
