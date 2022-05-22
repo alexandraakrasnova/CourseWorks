@@ -6,18 +6,14 @@
 
 #IncludeRegexTransform: 
 
-/mnt/c/Users/user/CourseWorks/src/main.cpp
+/mnt/c/Users/user/CourseWorks/src/funcs.cpp
 iostream
--
-stdio.h
 -
 vector
 -
-numeric
+functional
 -
-fstream
--
-iterator
+random
 -
 funcs.h
 /mnt/c/Users/user/CourseWorks/src/funcs.h
