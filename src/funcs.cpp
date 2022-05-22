@@ -19,6 +19,7 @@ void show_tuples(const vector<triad>& v)
         cout << v[i].a << ' ' << v[i].b << ' ' << v[i].c << endl;
 }
 
+/*
 void random_seq(vector<int>& rand_seq) {
     rand_seq.resize(0);
     rand_seq.reserve(NRAND);
@@ -31,6 +32,7 @@ void random_seq(vector<int>& rand_seq) {
     //show_vector(rand_seq);
     return;
 }
+*/
 
 int calc_triads(const vector<int>& rand_seq, int length) {
     int sum = 0;

@@ -6,4 +6,5 @@ CMakeFiles/coursework.dir/src/funcs.cpp.o: include/funcs.h
 
 CMakeFiles/coursework.dir/src/main.cpp.o: src/main.cpp
 CMakeFiles/coursework.dir/src/main.cpp.o: include/funcs.h
+CMakeFiles/coursework.dir/src/main.cpp.o: include/mersenne_twister.h
 

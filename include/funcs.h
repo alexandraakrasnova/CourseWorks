@@ -22,7 +22,7 @@ struct triad
 
 void show_vector(const std::vector<int>& a);
 void show_tuples(const std::vector<triad>& v);
-void random_seq(std::vector<int>& rand_seq);
+// void random_seq(std::vector<int>& rand_seq);
 int calc_triads(const std::vector<int>& rand_seq, int length);
 int calc_triads(vector <int>::iterator& beg, int length);
 void gen(std::vector<int>& tuples);

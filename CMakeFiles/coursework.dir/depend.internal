@@ -7,3 +7,4 @@ CMakeFiles/coursework.dir/src/funcs.cpp.o
 CMakeFiles/coursework.dir/src/main.cpp.o
  /mnt/c/Users/user/CourseWorks/src/main.cpp
  include/funcs.h
+ include/mersenne_twister.h

@@ -6,17 +6,25 @@
 
 #IncludeRegexTransform: 
 
-/mnt/c/Users/user/CourseWorks/src/funcs.cpp
-iostream
--
-vector
+/mnt/c/Users/user/CourseWorks/src/main.cpp
+fstream
 -
 functional
 -
-random
+iostream
+-
+iterator
+-
+numeric
+-
+stdio.h
+-
+vector
 -
 funcs.h
 /mnt/c/Users/user/CourseWorks/src/funcs.h
+mersenne_twister.h
+/mnt/c/Users/user/CourseWorks/src/mersenne_twister.h
 
 include/funcs.h
 stdio.h
@@ -29,4 +37,6 @@ sstream
 -
 iomanip
 -
+
+include/mersenne_twister.h
 
